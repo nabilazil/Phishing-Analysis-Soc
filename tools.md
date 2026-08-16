@@ -34,4 +34,4 @@ A practical guide to the tools and methodologies used for safe and effective phi
 
 ---
 
-**Next:** [TryHackMe Write-ups](../writeups/)
+**Next:** [TryHackMe Write-ups](./tryhackme-phishing-analysis.md/)
