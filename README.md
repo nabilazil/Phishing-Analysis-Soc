@@ -19,10 +19,12 @@ This repository documents my journey and hands-on practice in analyzing phishing
 - **OS:** Linux (Ubuntu/Kali), Windows.
 
 ## 📂 Repository Structure
-- **`fundamentals/`**: Core concepts of email architecture and phishing tactics.
-- **`examples/`**: Real-world case studies (Netflix, Apple, DHL phishing campaigns).
-- **`tools/`**: Guides and recipes for using analysis tools safely.
+- **`Email Structure & Headers Analysis.md`**: Core concepts of email architecture, headers (From, To, BCC, X-Originating-IP, SPF/DKIM), and red flags.
+- **`phishing-techniques.md`**: Common attacker tactics (Brand Impersonation, Spoofing, Urgency, Link Manipulation, BCC Abuse, Inconsistencies).
+- **`examples.md`**: Real-world case studies (Netflix, Apple, DHL phishing campaigns) with analyst thought process.
+- **`tools.md`**: Safe analysis workflow using CyberChef, VirusTotal, urlscan.io, CheckPhish, and Sandboxes.
 - **`writeups/`**: TryHackMe room walkthroughs and solutions.
+
 
 ---
 *Built for learning, documentation, and SOC Analyst portfolio building.*
