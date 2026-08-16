@@ -42,4 +42,4 @@ Attackers use a combination of psychological manipulation and technical tricks t
 
 ---
 
-**Next:** [Real-World Examples](../examples.md)
+**Next:** [Real-World Examples](./examples.md)
