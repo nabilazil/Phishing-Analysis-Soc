@@ -69,4 +69,4 @@ For all cases above, the following rules were strictly followed:
 
 ---
 
-**Next:** [Tools & Techniques](./tools/)
+**Next:** [Tools & Techniques](./tools.md/)
